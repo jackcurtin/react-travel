@@ -64,5 +64,9 @@ video{
         text-decoration: none;
     }
 
+    .btn {
+        width: 100%;
+    }
+
 }
 
